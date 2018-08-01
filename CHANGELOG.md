@@ -2,7 +2,7 @@
 
 ## Release 0.9.4
 
-_Planned for August 17, 2018_
+_Planned for August 13, 2018_
 
 ## Release 0.9.3
 
